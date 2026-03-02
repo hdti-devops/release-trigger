@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/hdti-devops/release-trigger/compare/ingress-nginx-v1.4.0...ingress-nginx-v1.5.0) (2026-03-02)
+
+
+### Features
+
+* **overlays:** modified dev overlays ([#23](https://github.com/hdti-devops/release-trigger/issues/23)) ([c70eee1](https://github.com/hdti-devops/release-trigger/commit/c70eee1874dca301383c3f0bb2d07c47c2a62251))
+
 ## [1.4.0](https://github.com/hdti-devops/release-trigger/compare/ingress-nginx-v1.3.0...ingress-nginx-v1.4.0) (2026-03-02)
 
 
