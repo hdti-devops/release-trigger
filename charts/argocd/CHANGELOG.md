@@ -15,6 +15,13 @@
 
 * **overlays:** replicas manages ([#16](https://github.com/hdti-devops/release-trigger/issues/16)) ([d7e5262](https://github.com/hdti-devops/release-trigger/commit/d7e52620569b482c9637b8a4a78903367508116a))
 
+## [1.3.0](https://github.com/hdti-devops/release-trigger/compare/argocd-v1.2.0...argocd-v1.3.0) (2026-03-02)
+
+
+### Features
+
+* **overlays:** replicas manages ([#16](https://github.com/hdti-devops/release-trigger/issues/16)) ([d7e5262](https://github.com/hdti-devops/release-trigger/commit/d7e52620569b482c9637b8a4a78903367508116a))
+
 ## [1.2.0](https://github.com/hdti-devops/release-trigger/compare/argocd-v1.1.0...argocd-v1.2.0) (2026-03-02)
 
 
