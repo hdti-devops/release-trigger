@@ -1,6 +1,6 @@
 {
-  "separate-pull-requests": false,
-  "sequential-calls": false,
+  "separate-pull-requests": true,
+  "sequential-calls": true,
   "skip-github-release": false,
   "packages": {
     "charts/aks-tools": {
