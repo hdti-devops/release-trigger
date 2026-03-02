@@ -3,6 +3,10 @@
   "sequential-calls": true,
   "skip-github-release": false,
   "packages": {
+    "charts/aks-tools": {
+        "release-type": "helm",
+        "package-name": "aks-tools"
+    },
     "charts/argocd": {
         "release-type": "helm",
         "package-name": "argocd"
