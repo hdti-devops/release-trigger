@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/hdti-devops/release-trigger/compare/argocd-v1.3.0...argocd-v1.4.0) (2026-03-02)
+
+
+### Features
+
+* **overlays:** replicasets changed ([#20](https://github.com/hdti-devops/release-trigger/issues/20)) ([18ae27d](https://github.com/hdti-devops/release-trigger/commit/18ae27d30c15a5727ea0cbab62595b99d40f8efe))
+
 ## [1.3.0](https://github.com/hdti-devops/release-trigger/compare/argocd-v1.2.0...argocd-v1.3.0) (2026-03-02)
 
 
