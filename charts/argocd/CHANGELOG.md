@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/hdti-devops/release-trigger/compare/argocd-v1.1.0...argocd-v1.2.0) (2026-03-02)
+
+
+### Features
+
+* **env-overlays:** configured ovelays cluster names ([#12](https://github.com/hdti-devops/release-trigger/issues/12)) ([05f1d2c](https://github.com/hdti-devops/release-trigger/commit/05f1d2ca3f72ad958b94553e7fa14e3233919197))
+
 ## [1.1.0](https://github.com/hdti-devops/release-trigger/compare/argocd-v1.0.0...argocd-v1.1.0) (2026-03-02)
 
 
