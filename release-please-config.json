@@ -6,6 +6,10 @@
     "charts/argocd": {
         "release-type": "helm",
         "package-name": "argocd"
+    },
+    "charts/ingress-nginx": {
+        "release-type": "helm",
+        "package-name": "ingress-nginx"
     }
   }
 }
