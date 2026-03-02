@@ -1,6 +1,6 @@
 {
     "charts/argocd": "1.1.0",
-    "charts/ingress-nginx": "1.0.0",
+    "charts/ingress-nginx": "1.1.0",
     "charts/nginx-oci": "1.0.0",
     "charts/aks-tools": "1.0.0"
 }
