@@ -1,1 +1,2 @@
 clusterName: prod
+replicas: 2

@@ -1,1 +1,2 @@
 clusterName: dev
+replicas: 2
