@@ -1,6 +1,5 @@
 apiVersion: v2
 name: aks-tools
 description: Chart for aks-tools app-of-app
-version: 0.0.0
+version: 1.0.0
 appVersion: v0.0.1
-
