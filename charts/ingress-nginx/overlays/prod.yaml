@@ -1,2 +1,2 @@
 clusterName: prod
-replicas: 2
+replicas: 3
